@@ -26,7 +26,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:+'
-    compile 'com.amazonaws:aws-android-sdk-core:+'
+    api 'com.facebook.react:react-native:+'
+    api 'com.amazonaws:aws-android-sdk-core:+'
 }
 
